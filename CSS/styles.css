@@ -12,6 +12,25 @@
 
 h1{
     font-size: 596%;
+    font-family: 'sacramento' , cursive;
+    color: #66BFBF;
+    margin: 50px auto 0px auto;
+}
+
+h3,{
+
+}
+
+.cloud1{
+
+    padding-left: 250px;
+}
+.cloud2{
+    padding-right: 300px;
+}
+
+h2{
+    color:#66BFBF; ;
 }
 
 body{
